@@ -1,6 +1,6 @@
 ## Hi im dylan <3 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ugw0qgwtc4n8ibkyisq0tx9yg&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ugw0qgwtc4n8ibkyisq0tx9yg&redirect=true)
-![External image example](https://www.redbubble.com/i/sticker/Dandy-World-Astro-by-sampurrie/168920015.EJUG5)
+![External image example]([https://www.redbubble.com/i/sticker/Dandy-World-Astro-by-sampurrie/168920015.EJUG5](https://www.rolimons.com/item/84573575179937))
 <!--
 **Dylan-Astro/Dylan-Astro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
