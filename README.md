@@ -6,15 +6,14 @@
   <br><br>
 
   <!-- CENTERED TEXT POEM / QUOTE -->
-  <font color="#A8C29B" face="serif">
-    <i>im in love..</i>
-    <br><br>
-    <i>with the hope..</i>
-    <br><br>
-    <i>that sleeps..</i>
-    <br><br>
-    <i>deep inside you.</i>
-  </font>
+   $${\color{#60855E} im\ in\ love..}$$ 
+ 
+  $${\color{#60855E} with\ the\ hope..}$$
+    
+   $${\color{#60855E} that\ sleeps..}$$
+   
+   $${\color{#60855E} deep\ inside\ you.}$$
+  
 
   <br><br>
 
