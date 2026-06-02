@@ -1,17 +1,38 @@
-## Hi im dylan <3 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ugw0qgwtc4n8ibkyisq0tx9yg&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-![External image example](https://media.discordapp.net/attachments/1302663877384736910/1434791648881148055/astrodw-dandys-world.png?ex=69099d5a&is=69084bda&hm=870850fcc3b55666c09af76dd2c9f0ec645d114dd292da494ceadaec6738e140&=&format=webp&quality=lossless&width=400&height=400)
-<!--
-**Dylan-Astro/Dylan-Astro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <!-- TOP GRAPHIC (e.g., Red Roses) -->
+  <img src="https://i.pinimg.com/736x/68/7d/af/687daff2f4cc933897e983528c00f556.jpg" width="450" alt="Header Banner">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br>
+
+  <!-- CENTERED TEXT POEM / QUOTE -->
+  <font color="#A8C29B" face="serif">
+    <i>im in love..</i>
+    <br><br>
+    <i>with the hope..</i>
+    <br><br>
+    <i>that sleeps..</i>
+    <br><br>
+    <i>deep inside you.</i>
+  </font>
+
+  <br><br>
+
+  <!-- MIDDLE GRAPHIC (e.g., Red Folding Fan) -->
+  <img src="https://cdn.discordapp.com/attachments/1302663877384736910/1511408393318039754/Untitled181_20260602123715.png?ex=6a205841&is=6a1f06c1&hm=72708ee8acbcc302ee8582137ca5d47bc056e299e4d606dde492338fed491a92&" width="300" alt="Center Piece">
+
+  <br><br><br>
+
+  <!-- CUSTOM LINKS WITH UNICODE ICONS -->
+  <font face="monospace">
+    <a href="https://ciciwici.atabook.org/">♡ ata</a> &nbsp;•&nbsp; 
+    <a href="https://guns.lol/ciciwici">♡ guns</a> &nbsp;•&nbsp; 
+    <a href="https://astrosucks.straw.page/">♡ strawpage</a>
+  </font>
+
+  <br><br><br>
+
+  <!-- REPEATING LACE FOOTER DIVIDER -->
+  <img src="https://i.pinimg.com/736x/8f/bc/f0/8fbcf039e0eef909b3981b58daf97d87.jpg" width="450" alt="Lace Divider">
+
+</div>
