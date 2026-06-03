@@ -14,7 +14,6 @@
    
    $${\color{#60855E} deep\ inside\ you.}$$
   
-
   <br><br>
 
   <!-- MIDDLE GRAPHIC (e.g., Red Folding Fan) -->
