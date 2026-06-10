@@ -17,7 +17,7 @@
   <br><br>
 
   <!-- MIDDLE GRAPHIC (e.g., Red Folding Fan) -->
-  <img src="https://cdn.discordapp.com/attachments/1302663877384736910/1511408393318039754/Untitled181_20260602123715.png?ex=6a205841&is=6a1f06c1&hm=72708ee8acbcc302ee8582137ca5d47bc056e299e4d606dde492338fed491a92&" width="300" alt="Center Piece">
+  <img src="https://cdn.discordapp.com/attachments/1302663877384736910/1514327505937498222/Untitled181_20260602123715.png?ex=6a2af6e4&is=6a29a564&hm=de91eda3ac81ec45027d3baf9ebfb66b7e17bf5b42a480119f327736ed9409ab&" width="300" alt="Center Piece">
 
   <br><br><br>
 
