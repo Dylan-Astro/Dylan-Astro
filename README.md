@@ -6,18 +6,16 @@
   <br><br>
 
   <!-- CENTERED TEXT POEM / QUOTE -->
-   $${\color{#60855E} im\ in\ love..}$$ 
+   $${\color{#60855E} Please,\ don't\ forget...\ }$$ 
  
-  $${\color{#60855E} with\ the\ hope..}$$
+  $${\color{#60855E} From\ the\ bottom\ of\ my\ heart...\ }$$
     
-   $${\color{#60855E} that\ sleeps..}$$
-   
-   $${\color{#60855E} deep\ inside\ you.}$$
+   $${\color{#60855E} I\ am\ truly\ in\ love\ with\ the\ hope\ that\ sleeps\ inside\ you.\ }$$
   
   <br><br>
 
   <!-- MIDDLE GRAPHIC (e.g., Red Folding Fan) -->
-  <img src="https://cdn.discordapp.com/attachments/1302663877384736910/1514327505937498222/Untitled181_20260602123715.png?ex=6a2af6e4&is=6a29a564&hm=de91eda3ac81ec45027d3baf9ebfb66b7e17bf5b42a480119f327736ed9409ab&" width="300" alt="Center Piece">
+  <img src="https://cdn.discordapp.com/attachments/1302663877384736910/1514327505937498222/Untitled181_20260602123715.png?ex=6a318e64&is=6a303ce4&hm=e7b6f6c9f771ea3faae94b1418512161bc7b01ccf1b257267e2bd7577907b761&" width="450" alt="Center Piece">
 
   <br><br><br>
 
